@@ -1,0 +1,16 @@
+/* bug-preview.css */
+.bug-preview {
+    max-width: 60%;
+}
+
+.bug-preview h1 {
+    font-size: 1.5rem;
+    margin: 0;
+    color: #333;
+}
+
+.bug-preview h2 {
+    font-size: 1rem;
+    margin: 5px 0 0;
+    color: #777;
+}

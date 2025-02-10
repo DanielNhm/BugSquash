@@ -1,0 +1,70 @@
+2.1.2025, 12:08:22 - INFO - bug abc124 removed
+2.1.2025, 12:11:31 - INFO - bug abc124 removed
+2.1.2025, 12:13:54 - INFO - bug abc124 removed
+2.1.2025, 12:44:28 - ERROR - Cannot save bug | ReferenceError: car is not defined
+2.1.2025, 12:45:23 - INFO - Bug saved! | {"_id":"1234","title":"Bug in login screen","description":"There is a bug in the login screen that prevents users from logging in.","severity":"high","createdAt":"2025-01-02T10:45:23.228Z"}
+2.1.2025, 12:51:52 - INFO - Bug saved! | {"_id":"9SyaX","title":"Bug in login screen","description":"There is a bug in the login screen that prevents users from logging in.","severity":"high","createdAt":"2025-01-02T10:51:52.065Z"}
+6.1.2025, 13:55:34 - INFO - bug undefined removed
+6.1.2025, 14:01:21 - INFO - bug undefined removed
+6.1.2025, 14:07:40 - INFO - bug undefined removed
+6.1.2025, 14:08:11 - INFO - bug undefined removed
+6.1.2025, 14:09:03 - INFO - bug undefined removed
+6.1.2025, 14:30:04 - INFO - bug undefined removed
+6.1.2025, 14:31:41 - INFO - bug undefined removed
+6.1.2025, 14:31:47 - INFO - bug undefined removed
+6.1.2025, 14:39:30 - INFO - bug undefined removed
+6.1.2025, 14:40:58 - INFO - bug 9SyaX removed
+6.1.2025, 14:41:02 - INFO - bug abc123 removed
+15.1.2025, 10:36:42 - INFO - Access blocked due to too many visits
+15.1.2025, 10:36:46 - INFO - Access blocked due to too many visits
+15.1.2025, 10:36:47 - INFO - Access blocked due to too many visits
+15.1.2025, 10:36:48 - INFO - Access blocked due to too many visits
+15.1.2025, 10:36:49 - INFO - Access blocked due to too many visits
+15.1.2025, 10:36:54 - INFO - Access blocked due to too many visits
+15.1.2025, 10:37:19 - INFO - Access blocked due to too many visits
+15.1.2025, 11:39:20 - INFO - Bug saved! | {"_id":"xwKBP","title":"hi","description":"i'm just a bug","severity":"4","createdAt":1736933960120}
+15.1.2025, 11:39:37 - INFO - Bug saved! | {"_id":"xwKBP","title":"hi","description":"i'm just a bug","severity":"3"}
+15.1.2025, 11:43:20 - INFO - Bug saved! | {"_id":"xwKBP","title":"hi","description":"i'm just a bug","severity":"3"}
+15.1.2025, 13:37:24 - INFO - Bug saved! | {"_id":"U1HfE","title":"yo","description":"hello there!","severity":"5","createdAt":1736941044366}
+15.1.2025, 13:38:08 - INFO - bug xwKBP removed
+16.1.2025, 12:35:21 - INFO - Downloaded Bugs
+16.1.2025, 12:35:21 - ERROR - Cannot download bugs | Error: ENOENT: no such file or directory, open 'C:\Users\dorma\OneDrive\שולחן העבודה\miss-bug-proj\fonts\OpenSans-Regular.ttf'
+16.1.2025, 12:38:41 - INFO - Downloaded Bugs
+16.1.2025, 12:38:41 - ERROR - Cannot download bugs | Error: ENOENT: no such file or directory, open 'C:\Users\dorma\OneDrive\שולחן העבודה\miss-bug-proj\fonts\OpenSans-Regular.ttf'
+16.1.2025, 12:39:09 - INFO - Downloaded Bugs
+16.1.2025, 12:39:09 - ERROR - Cannot download bugs | Error: ENOENT: no such file or directory, open 'C:\Users\dorma\OneDrive\שולחן העבודה\miss-bug-proj\fonts\OpenSans-Regular.ttf'
+16.1.2025, 12:53:39 - INFO - Downloaded Bugs
+20.1.2025, 13:25:31 - INFO - bug U1HfE removed
+20.1.2025, 13:25:34 - INFO - bug 9SyaX removed
+20.1.2025, 13:26:05 - INFO - Bug saved! | {"_id":"IqBho","title":"dcsd","description":"just a bug...","severity":2,"createdAt":1737372365902}
+21.1.2025, 14:12:52 - INFO - Bug saved! | {"_id":"mz1Tt","title":"puki","description":"puki","severity":1,"createdAt":1737461572396}
+21.1.2025, 14:13:10 - INFO - Bug saved! | {"_id":"t8mL2","title":"muki","description":"muki","severity":6,"createdAt":1737461590040}
+21.1.2025, 14:13:30 - INFO - Bug saved! | {"_id":"yKAvI","title":"shuki","description":"shuki","severity":7,"createdAt":1737461610510}
+22.1.2025, 13:08:49 - INFO - bug t8mL2 removed
+22.1.2025, 13:08:51 - INFO - bug yKAvI removed
+23.1.2025, 13:04:15 - INFO - bug abc125 removed
+5.2.2025, 13:35:14 - INFO - Bug created! | {"title":"mm","description":"nn","severity":2,"_id":"In6rF","createdAt":1738755314746}
+5.2.2025, 13:55:56 - INFO - Bug created! | {"title":"pp","description":"pp","severity":1,"_id":"1lVBH","owner":{"_id":"NfTGX","score":100,"fullname":"shon","username":"shon","password":"shon"},"createdAt":1738756556773}
+5.2.2025, 14:47:42 - INFO - Bug 1lVBH removed
+5.2.2025, 14:47:51 - ERROR - Cannot remove bug | Not your bug
+5.2.2025, 14:47:52 - ERROR - Cannot remove bug | Not your bug
+5.2.2025, 14:50:33 - INFO - Bug In6rF removed
+5.2.2025, 14:50:35 - INFO - Bug abc123 removed
+9.2.2025, 9:25:44 - INFO - Bug def456 removed
+9.2.2025, 9:25:49 - INFO - Bug ghi789 removed
+9.2.2025, 9:27:39 - INFO - Bug mno345 removed
+9.2.2025, 9:27:46 - INFO - Bug pqr678 removed
+9.2.2025, 9:27:48 - INFO - Bug stu901 removed
+9.2.2025, 9:27:50 - INFO - Bug jkl012 removed
+9.2.2025, 9:27:54 - INFO - Bug vwx234 removed
+10.2.2025, 10:35:38 - INFO - Bug created! | {"title":"fdf","description":"fdfd","severity":2,"_id":"Sdypj","owner":{"_id":"u101","fullname":"Puki Ja","isAdmin":true},"createdAt":1739176538320}
+10.2.2025, 11:36:45 - INFO - Bug Sdypj removed
+10.2.2025, 11:36:55 - INFO - Bug yzb567 removed
+10.2.2025, 11:38:00 - INFO - Bug cde890 removed
+10.2.2025, 11:38:02 - INFO - Bug fgh123 removed
+10.2.2025, 11:38:13 - INFO - Bug ijk456 removed
+10.2.2025, 11:38:17 - INFO - Bug lmn789 removed
+10.2.2025, 11:39:22 - INFO - Bug created! | {"title":"jj","description":"hh","severity":2,"_id":"P57yF","owner":{"_id":"NfTGX","fullname":"shon"},"createdAt":1739180362863}
+10.2.2025, 11:39:28 - INFO - Bug P57yF removed
+10.2.2025, 19:59:13 - INFO - Bug created! | {"title":"th","description":"grg","severity":1,"_id":"d31X8","owner":{"_id":"u101","fullname":"Puki Ja","isAdmin":true},"createdAt":1739210353864}
+10.2.2025, 20:00:45 - INFO - Bug d31X8 removed

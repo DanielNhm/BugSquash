@@ -1,0 +1,220 @@
+[
+  {
+    "_id": "opq012",
+    "title": "Search bar not focused",
+    "description": "Search bar does not auto-focus on page load",
+    "severity": 1,
+    "createdAt": 1605107359454,
+    "labels": [
+      "UI",
+      "enhancement"
+    ],
+    "owner": {
+      "_id": "u114",
+      "fullname": "Ethan White"
+    }
+  },
+  {
+    "_id": "yzb567",
+    "title": "Incorrect date format",
+    "description": "Dates are displayed in MM/DD/YYYY instead of DD/MM/YYYY",
+    "severity": 1,
+    "createdAt": 1569107359454,
+    "labels": [
+      "UI",
+      "internationalization"
+    ],
+    "owner": {
+      "_id": "u109",
+      "fullname": "Olivia Martinez"
+    }
+  },
+  {
+    "_id": "cde890",
+    "title": "Crash on logout",
+    "description": "App crashes when clicking logout",
+    "severity": 3,
+    "createdAt": 1657107359454,
+    "labels": [
+      "backend",
+      "critical",
+      "security"
+    ],
+    "owner": {
+      "_id": "u110",
+      "fullname": "Daniel Harris"
+    }
+  },
+  {
+    "_id": "fgh123",
+    "title": "Notifications not sent",
+    "description": "Push notifications are not received by users",
+    "severity": 3,
+    "createdAt": 1641107359454,
+    "labels": [
+      "backend",
+      "urgent",
+      "notifications"
+    ],
+    "owner": {
+      "_id": "u111",
+      "fullname": "Isabella Clark"
+    }
+  },
+  {
+    "_id": "ijk456",
+    "title": "Profile picture upload failed",
+    "description": "Users cannot upload profile pictures",
+    "severity": 2,
+    "createdAt": 1574107359454,
+    "labels": [
+      "frontend",
+      "bug"
+    ],
+    "owner": {
+      "_id": "u112",
+      "fullname": "William Allen"
+    }
+  },
+  {
+    "_id": "lmn789",
+    "title": "Session timeout too short",
+    "description": "User session expires too quickly",
+    "severity": 1,
+    "createdAt": 1636107359454,
+    "labels": [
+      "backend",
+      "performance"
+    ],
+    "owner": {
+      "_id": "u113",
+      "fullname": "Charlotte Scott"
+    }
+  },
+  {
+    "_id": "opq012",
+    "title": "Search bar not focused",
+    "description": "Search bar does not auto-focus on page load",
+    "severity": 1,
+    "createdAt": 1605107359454,
+    "labels": [
+      "UI",
+      "enhancement"
+    ],
+    "owner": {
+      "_id": "u114",
+      "fullname": "Ethan White"
+    }
+  },
+  {
+    "_id": "rst345",
+    "title": "Dark mode not saving",
+    "description": "User's dark mode preference resets on page reload",
+    "severity": 2,
+    "createdAt": 1619107359454,
+    "labels": [
+      "UI",
+      "theme"
+    ],
+    "owner": {
+      "_id": "u109",
+      "fullname": "Olivia Martinez"
+    }
+  },
+  {
+    "_id": "uvw678",
+    "title": "Form validation broken",
+    "description": "Form allows submission without required fields",
+    "severity": 3,
+    "createdAt": 1597107359454,
+    "labels": [
+      "frontend",
+      "critical",
+      "form-validation"
+    ],
+    "owner": {
+      "_id": "u110",
+      "fullname": "Daniel Harris"
+    }
+  },
+  {
+    "_id": "xyz901",
+    "title": "Slow database queries",
+    "description": "Fetching user data takes too long",
+    "severity": 3,
+    "createdAt": 1583107359454,
+    "labels": [
+      "backend",
+      "performance",
+      "database"
+    ],
+    "owner": {
+      "_id": "u111",
+      "fullname": "Isabella Clark"
+    }
+  },
+  {
+    "_id": "abc234",
+    "title": "Broken image links",
+    "description": "Some images are not loading due to incorrect URLs",
+    "severity": 2,
+    "createdAt": 1622107359454,
+    "labels": [
+      "frontend",
+      "medium-priority",
+      "image-loading"
+    ],
+    "owner": {
+      "_id": "u112",
+      "fullname": "William Allen"
+    }
+  },
+  {
+    "_id": "def567",
+    "title": "Email notifications delayed",
+    "description": "Emails are sent hours after triggering event",
+    "severity": 2,
+    "createdAt": 1630107359454,
+    "labels": [
+      "backend",
+      "low-priority",
+      "email"
+    ],
+    "owner": {
+      "_id": "u113",
+      "fullname": "Charlotte Scott"
+    }
+  },
+  {
+    "_id": "ghi890",
+    "title": "Button animation jittery",
+    "description": "Hover animation on buttons stutters",
+    "severity": 1,
+    "createdAt": 1645107359454,
+    "labels": [
+      "UI",
+      "low-priority",
+      "animation"
+    ],
+    "owner": {
+      "_id": "u114",
+      "fullname": "Ethan White"
+    }
+  },
+  {
+    "_id": "jkl123",
+    "title": "Autocomplete suggestions incorrect",
+    "description": "Search autocomplete returns irrelevant results",
+    "severity": 2,
+    "createdAt": 1650107359454,
+    "labels": [
+      "frontend",
+      "medium-priority",
+      "search"
+    ],
+    "owner": {
+      "_id": "u109",
+      "fullname": "Olivia Martinez"
+    }
+  }
+]

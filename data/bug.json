@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "9SyaX",
+    "title": "Bug in login screen",
+    "description": "There is a bug in the login screen that prevents users from logging in.",
+    "severity": "high",
+    "createdAt": "2025-01-02T10:51:52.065Z"
+  },
+  {
+    "_id": "abc123",
+    "title": "Cannot save a Car",
+    "description": "problem when clicking Save",
+    "severity": 3,
+    "createdAt": 1542107359454
+  },
+  {
+    "_id": "abc124",
+    "title": "Cannot load a Car",
+    "description": "problem when loading car",
+    "severity": 2,
+    "createdAt": 1542107359455
+  }
+]

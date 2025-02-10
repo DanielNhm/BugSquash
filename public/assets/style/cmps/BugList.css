@@ -1,0 +1,55 @@
+/* bug-list.css */
+.bug-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 20px auto;
+    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.bug-list li {
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.bug-list li:hover {
+    transform: scale(1.02);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.bug-list section {
+    display: flex;
+    gap: 10px;
+}
+
+.bug-list button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: background-color 0.3s;
+}
+
+.bug-list button:hover {
+    background-color: #0056b3;
+}
+
+.bug-list button a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.bug-list button:focus {
+    outline: none;
+}
